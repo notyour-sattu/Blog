@@ -36,22 +36,28 @@ Developed a dynamic blog website leveraging the MERN stack, featuring JWT authen
 ### Login/Signup Page
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/d1267570-6342-4d50-8fb1-8be5bd7d044b">
 
+
 ### Home Page 
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/d44e3685-70a2-490b-822a-78cee700127d">
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/d1a608e5-9601-48e7-b7b3-b0c0e02fcf50">
 
+
 ### Specific Category Blog Page
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/234240d2-9f54-4b44-b945-2fd4714e1eb1">
+
 
 ### Blog Post Page 
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/37862c85-5b86-4c62-8bbd-1be3faeca896">
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/d737a2c9-1ffe-4597-90df-b20ffbbcd4fa">
 
+
 ### About Page
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/b769bb90-b662-4136-8f4e-68f72b3b851d">
 
+
 ### Contact me Page 
 <img width="960" alt="image" src="https://github.com/notyour-sattu/Blog/assets/106303115/8b6c1cce-f467-494b-afb7-1179da1ab49f">
+
 
 
 ## Contributing
